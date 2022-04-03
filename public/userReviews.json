@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "rating": 5,
+      "name": "Rivas Castro",
+      "review": "Nice pc for budget gamers "
+    },
+    {
+      "id": 2,
+      "picture": "https://media.istockphoto.com/photos/studio-shot-of-a-handsome-and-happy-young-man-posing-against-a-grey-picture-id1355110818?b=1&k=20&m=1355110818&s=170667a&w=0&h=O58XhltYuAw0ssiUWXAFlIitq_4kj-WdJFWcTLEoUi0=",
+      "rating": 5,
+      "name": "Meyer Hale",
+      "review": " Best gaming PC for first-timers."
+    },
+    {
+      "id": 3,
+      "picture": "https://media.istockphoto.com/photos/indoor-photo-of-handsome-european-guy-pictured-isolated-on-grey-to-picture-id1034357476?k=20&m=1034357476&s=170667a&w=0&h=y6UM8BclvPYooARrkT-v7pqYUR9CnFltPJOv2NfBsbg=",
+      "rating": 4,
+      "name": "Darcy Velazquez",
+      "review": "This pc is good but RTX 3090 is over kill"
+    },
+    {
+      "id": 4,
+      "picture": "https://thumbs.dreamstime.com/b/young-man-headshot-23083979.jpg",
+      "rating": 5,
+      "name": "Sandra Leon",
+      "review": "its good for 4k gaming "
+    },
+    {
+      "id": 5,
+      "picture": "https://format-com-cld-res.cloudinary.com/image/private/s--1nryV6Q_--/c_limit,g_center,h_700,w_65535/fl_keep_iptc.progressive,q_95/v1/745f16c134fed9fe6104cf07b90dc8ec/20160122-IMG_5451_edit_web-crop.jpg",
+      "rating": 5,
+      "name": "Workman Walker",
+      "review": "Its capable of giving 60fps on modern games"
+    },
+    {
+      "id": 6,
+      "picture": "https://image9.photobiz.com/8368/8_20200708115204_10749544_large.jpg",
+      "rating": 4,
+      "name": "Theresa Dean",
+      "review": "it's good but I don't think it can give 60 FPS on 4K gaming"
+    }
+  ]
