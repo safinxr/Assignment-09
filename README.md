@@ -1,5 +1,5 @@
 # Gamers PC
-## Live link: 
+## Live link: https://marvelous-bombolone-d84a54.netlify.app/
 
 ### Website info
 * This website is about gaming pc.
