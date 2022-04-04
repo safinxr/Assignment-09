@@ -10,7 +10,7 @@ const ReviewsCart = ({data}) => {
             <div className='ms-4 '>
                 <h5 className='m-0'>{name}</h5>
                 <p  className='m-0'>{review}</p>
-                <p  className='m-0'>Rating: {rating} star</p>
+                <p  className='m-0'>Rating: {rating}star</p>
             </div>
         </div>
     );
