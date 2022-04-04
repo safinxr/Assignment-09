@@ -6,7 +6,7 @@ import './Reviews.css'
 const Reviews = () => {
     const [reviews, setReviews] = useReviews();
     return (
-        <div className="my-5 mx-auto shadow-lg p-4 rounded w-100">
+        <div className="my-5 shadow-lg p-4 rounded w-100 container">
             <h1 className="text-center">
             Customers Reviews ( {reviews.length} )
           </h1>

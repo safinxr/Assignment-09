@@ -1,8 +1,12 @@
-.text{
+.link{
     color: black;
-    border-bottom: 3px solid lightgray;
+    border-bottom: 2px solid lightgray;
 }
-.text:hover{
+.active-link{
+    color: rgba(0, 81, 255, 0.466);
+   border-bottom: 2px solid rgba(0, 81, 255, 0.466);
+}
+.link:hover{
    color: rgba(0, 81, 255, 0.466);
-   border-bottom: 3px solid rgba(0, 81, 255, 0.466);
+   border-bottom: 2px solid rgba(0, 81, 255, 0.466);
 }
