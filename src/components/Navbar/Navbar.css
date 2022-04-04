@@ -1,6 +1,8 @@
 .text{
     color: black;
+    border-bottom: 3px solid lightgray;
 }
 .text:hover{
    color: rgba(0, 81, 255, 0.466);
+   border-bottom: 3px solid rgba(0, 81, 255, 0.466);
 }
